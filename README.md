@@ -4,7 +4,7 @@ HOST OF NEPTUNJS. I DID NOT MAKE THIS
 This is a Deobfuscated version of NeptunJS/NeptuneJS/NJS - Specifically v2.5.5 as of 5th of August 2018
 
 # Try it out!
-[https://captam23.github.io/emulator](https://camptam23.github.io/emulator)
+[https://captam23.github.io/emu64](https://camptam23.github.io/emu64)
 
 ### Important
 This repo contains "rom.zip" and its a GBA rom copyright of Nintendo.
